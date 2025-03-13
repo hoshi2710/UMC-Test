@@ -1,0 +1,3 @@
+dummy.file
+*.file
+dummy/*.file
